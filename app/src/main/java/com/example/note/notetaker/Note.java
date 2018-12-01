@@ -1,3 +1,5 @@
+package com.example.note.notetaker;
+
 import java.util.Date;
 
 public class Note {
